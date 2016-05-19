@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "LVRouter.h"
 
 //! Project version number for LControllerRouter.
 FOUNDATION_EXPORT double LControllerRouterVersionNumber;
